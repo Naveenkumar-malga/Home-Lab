@@ -17,9 +17,9 @@ My interest leads to develop a passion for cybersecurity and I am now eager to t
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis          | <a href="https://github.com/Naveenkumar-malga/Phishing-Analysis">Home Lab</a>|
 | Network Traffic Analysis | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Created my own malware        | SOC Automation Lab|
+| Security information and event management      | SOC Automation Lab|
+|                   | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools

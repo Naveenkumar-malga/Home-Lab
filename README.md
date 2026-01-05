@@ -16,11 +16,9 @@ My interest leads to develop a passion for cybersecurity and I am now eager to t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis          | <a href="https://github.com/Naveenkumar-malga/Phishing-Analysis">Home Lab</a>|
-| Network Traffic Analysis | <a href="https://google.com">Detection Lab</a>|
-| Created my own malware        | SOC Automation Lab|
-| Security information and event management      | SOC Automation Lab|
-|                   | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Analysis | <a href="https://https://github.com/Naveenkumar-malga/Network-security">Home Lab</a>|
+| Endpoint Security        | <a href="https://https://github.com/Naveenkumar-malga/Endpoint-Security">Home Lab</a>|
+| Security information and event management(SIEM)      | Home Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -56,5 +54,4 @@ My interest leads to develop a passion for cybersecurity and I am now eager to t
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Home Lab

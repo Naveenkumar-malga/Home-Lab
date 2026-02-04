@@ -35,5 +35,5 @@ EDR
 </div>
 
 ## Certifications
-introduction to cybersecurity - By Cisco
+Introduction to Cybersecurity - By Cisco
 </div>

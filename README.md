@@ -17,7 +17,7 @@ My interest leads to develop a passion for cybersecurity and I am now eager to t
 | Phishing Analysis          | <a href="https://github.com/Naveenkumar-malga/Phishing-Analysis">Home Lab</a>|
 | Network Traffic Analysis | <a href="https://https://github.com/Naveenkumar-malga/Network-security">Home Lab</a>|
 | Endpoint Security        | <a href="https://https://github.com/Naveenkumar-malga/Endpoint-Security">Home Lab</a>|
-| Security information and event management(SIEM)      | <a href="https://https://https://app.letsdefend.io/user/naveen18">Lets defend</a>|
+| Security information and event management(SIEM)      | <a href="https://https://app.letsdefend.io/user/naveen18">Lets defend</a>|
 
 ## Tools
 

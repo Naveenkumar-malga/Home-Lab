@@ -36,5 +36,6 @@ EDR
 </div>
 
 ## Certifications
+SOC student program - Microsoft
 Introduction to Cybersecurity - By Cisco
 </div>

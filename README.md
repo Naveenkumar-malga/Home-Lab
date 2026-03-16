@@ -18,7 +18,7 @@ My interest leads to develop a passion for cybersecurity and I am now eager to t
 | Network Traffic Analysis | <a href="https://https://github.com/Naveenkumar-malga/Network-security">Home Lab</a>|
 | Endpoint Security        | <a href="https://https://github.com/Naveenkumar-malga/Endpoint-Security">Home Lab</a>|
 | Lets defend Platform     | <a href="https://app.letsdefend.io/user/naveen18">Lets defend</a>|
-| Tryhackme                | <a href="https://https://tryhackme.com/p/Naveenkumar0">(Profile Link)</a>|
+| Tryhackme                | <a href="https://https://tryhackme.com/p/Naveenkumar0">(Tryhackme)</a>|
 
 ## Tools
 
